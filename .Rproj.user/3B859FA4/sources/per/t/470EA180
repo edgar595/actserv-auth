@@ -1,0 +1,26 @@
+{
+    "id": "470EA180",
+    "path": "C:/Users/USER/OneDrive/Desktop/data analysis/R/shiny/config.R",
+    "project_path": "config.R",
+    "type": "r_source",
+    "hash": "1040367080",
+    "contents": "",
+    "dirty": false,
+    "created": 1711910037081.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "31,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711449621,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711449621,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "573C92F3",
+    "path": "C:/Users/USER/OneDrive/Desktop/data analysis/R/shiny/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "1828901063",
+    "contents": "",
+    "dirty": false,
+    "created": 1711910033918.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "123,34",
+        "scrollLine": "109"
+    },
+    "folds": "126|32|138|2|\n141|35|143|2|\n146|38|148|2|\n151|30|292|2|\n162|37|291|4|\n174|47|192|12|\n195|42|220|12|\n230|51|232|14|\n235|49|244|14|\n295|30|318|2|\n306|35|317|4|\n308|28|313|6|\n321|37|330|2|\n332|35|347|2|\n349|39|357|2|\n359|33|370|2|\n373|29|377|2|\n",
+    "lastKnownWriteTime": 1711969346,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711977319755,
+    "read_only": false,
+    "read_only_alternatives": []
+}
